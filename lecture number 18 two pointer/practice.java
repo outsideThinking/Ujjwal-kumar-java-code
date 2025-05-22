@@ -2,26 +2,14 @@ import javax.swing.*;
 import java.util.Scanner;
 public class practice {
 
-
-     static int[] sortedSquareNonDec(int[] arr){
-         int n=arr.length;
-         int left=0;
-         int right=n-1;
-         int [] ans=new int[n];
-         int j=0;
-         while (left<=right){
-                 if(Math.abs(arr[left])>Math.abs(arr[right])){
-                     ans[j++]=arr[left]*arr[left];
-                     left++;
-                 }
-                 else {
-                     ans[j++]=arr[right]*arr[right];
-                     right--;
-                 }
-
-         }
-         return ans;
-     }
+  static int sumOfLToR(int[] arr, int l, int r){
+      int n=arr.length;
+      int sum=0;
+      for(int i=l;i<r;i++){
+          sum=sum+arr[i];
+      }
+      return sum;
+  }
     static void printArray(int[] arr){
         int n=arr.length;
         for(int i=0;i<n;i++){
@@ -38,7 +26,12 @@ public class practice {
         for(int i=0;i<arr.length;i++){
             arr[i]=sc.nextInt();
         }
-        int[] ans=sortedSquareNonDec(arr);
-        printArray(ans);
+        System.out.println("Enter the value of l: ");
+        int l=sc.nextInt();
+        System.out.println("Enter the value of r: ");
+        int r=sc.nextInt();
+
+        int ans=sumOfLToR(arr,l,r);
+        System.out.print(ans);
     }
 }

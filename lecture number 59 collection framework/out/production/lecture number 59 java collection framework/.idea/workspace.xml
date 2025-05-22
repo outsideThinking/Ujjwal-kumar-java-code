@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52d03b7b-ea66-4b4b-b3da-22f207c8d6b8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../lecture number 16 target sum/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 16 target sum/practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 17array  4 problem solving/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 17array  4 problem solving/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 17array  4 problem solving/out/production/array 4 problem solving lecture 17/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 17array  4 problem solving/out/production/array 4 problem solving lecture 17/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 17array  4 problem solving/out/production/array 4 problem solving lecture 17/checkGivenArrayIsPresentInTheArrayOrNot.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 17array  4 problem solving/out/production/array 4 problem solving lecture 17/checkGivenArrayIsPresentInTheArrayOrNot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 17array  4 problem solving/out/production/array 4 problem solving lecture 17/practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 17array  4 problem solving/out/production/array 4 problem solving lecture 17/practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 17array  4 problem solving/out/production/array 4 problem solving lecture 17/qn1SwapTwoNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 17array  4 problem solving/out/production/array 4 problem solving lecture 17/qn1SwapTwoNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 17array  4 problem solving/out/production/array 4 problem solving lecture 17/qn2SwapTowNumberUsingSumAndDifference.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 17array  4 problem solving/out/production/array 4 problem solving lecture 17/qn2SwapTowNumberUsingSumAndDifference.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 17array  4 problem solving/out/production/array 4 problem solving lecture 17/reverseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 17array  4 problem solving/out/production/array 4 problem solving lecture 17/reverseArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 17array  4 problem solving/out/production/array 4 problem solving lecture 17/reverseArrayUsingSwpping.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 17array  4 problem solving/out/production/array 4 problem solving lecture 17/reverseArrayUsingSwpping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 17array  4 problem solving/out/production/array 4 problem solving lecture 17/rotateArrayWithoutUsingNewArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 17array  4 problem solving/out/production/array 4 problem solving lecture 17/rotateArrayWithoutUsingNewArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 17array  4 problem solving/out/production/array 4 problem solving lecture 17/rotateTheArrayKSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 17array  4 problem solving/out/production/array 4 problem solving lecture 17/rotateTheArrayKSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 17array  4 problem solving/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 17array  4 problem solving/practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 18 two pointer/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 18 two pointer/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 18 two pointer/out/production/two pointer lecture 18/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 18 two pointer/out/production/two pointer lecture 18/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 18 two pointer/out/production/two pointer lecture 18/practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 18 two pointer/out/production/two pointer lecture 18/practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 18 two pointer/out/production/two pointer lecture 18/sortAnArrayincreasingOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 18 two pointer/out/production/two pointer lecture 18/sortAnArrayincreasingOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 18 two pointer/out/production/two pointer lecture 18/sortArrayEvenAndOdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 18 two pointer/out/production/two pointer lecture 18/sortArrayEvenAndOdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 18 two pointer/out/production/two pointer lecture 18/sortArrayusingswapping.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 18 two pointer/out/production/two pointer lecture 18/sortArrayusingswapping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 18 two pointer/out/production/two pointer lecture 18/sortedSquareOfArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 18 two pointer/out/production/two pointer lecture 18/sortedSquareOfArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 18 two pointer/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 18 two pointer/practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 2/out/production/if else revision 2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 2/out/production/if else revision 2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 2/out/production/if else revision 2/absoluteValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 2/out/production/if else revision 2/absoluteValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 2/out/production/if else revision 2/evenOdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 2/out/production/if else revision 2/evenOdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 2/out/production/if else revision 2/leapyear.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 2/out/production/if else revision 2/leapyear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 2/out/production/if else revision 2/practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 2/out/production/if else revision 2/practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 2/out/production/if else revision 2/qn10YoungestAgeFind.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 2/out/production/if else revision 2/qn10YoungestAgeFind.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 2/out/production/if else revision 2/qn11SideOfTriangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 2/out/production/if else revision 2/qn11SideOfTriangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 2/out/production/if else revision 2/qn12divisibleBy3And5ButNot15.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 2/out/production/if else revision 2/qn12divisibleBy3And5ButNot15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 2/out/production/if else revision 2/qn4Profitloss.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 2/out/production/if else revision 2/qn4Profitloss.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 2/out/production/if else revision 2/qn5RectangularOfArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 2/out/production/if else revision 2/qn5RectangularOfArea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 2/out/production/if else revision 2/qn8divisibleby5And3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 2/out/production/if else revision 2/qn8divisibleby5And3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 2/out/production/if else revision 2/qn9findGreatestNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 2/out/production/if else revision 2/qn9findGreatestNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 2/out/production/if else revision 2/studentOfmarksPercentage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 2/out/production/if else revision 2/studentOfmarksPercentage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 2/out/production/if else revision 2/switchcase.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 2/out/production/if else revision 2/switchcase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 2/out/production/if else revision 2/threeDigitOrNot.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 2/out/production/if else revision 2/threeDigitOrNot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 2/out/production/if else revision 2/threePointsOnaLine.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 2/out/production/if else revision 2/threePointsOnaLine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 20 takin 2D array as input/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 20 takin 2D array as input/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 20 takin 2D array as input/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 20 takin 2D array as input/practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 21 2D arrays matrix transpose &amp; rotation pascal's traingle/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 21 2D arrays matrix transpose &amp; rotation pascal's traingle/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 21 2D arrays matrix transpose &amp; rotation pascal's traingle/out/production/lecture number 21 2D arrays matrix transpose &amp; rotation pascal's traingle/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 21 2D arrays matrix transpose &amp; rotation pascal's traingle/out/production/lecture number 21 2D arrays matrix transpose &amp; rotation pascal's traingle/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 21 2D arrays matrix transpose &amp; rotation pascal's traingle/out/production/lecture number 21 2D arrays matrix transpose &amp; rotation pascal's traingle/practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 21 2D arrays matrix transpose &amp; rotation pascal's traingle/out/production/lecture number 21 2D arrays matrix transpose &amp; rotation pascal's traingle/practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 21 2D arrays matrix transpose &amp; rotation pascal's traingle/out/production/lecture number 21 2D arrays matrix transpose &amp; rotation pascal's traingle/qn1TransposeMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 21 2D arrays matrix transpose &amp; rotation pascal's traingle/out/production/lecture number 21 2D arrays matrix transpose &amp; rotation pascal's traingle/qn1TransposeMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 21 2D arrays matrix transpose &amp; rotation pascal's traingle/out/production/lecture number 21 2D arrays matrix transpose &amp; rotation pascal's traingle/qn2givenSquareMatrixOfTurnTo90Degree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 21 2D arrays matrix transpose &amp; rotation pascal's traingle/out/production/lecture number 21 2D arrays matrix transpose &amp; rotation pascal's traingle/qn2givenSquareMatrixOfTurnTo90Degree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 21 2D arrays matrix transpose &amp; rotation pascal's traingle/out/production/lecture number 21 2D arrays matrix transpose &amp; rotation pascal's traingle/qn3PrintPascalTraningle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 21 2D arrays matrix transpose &amp; rotation pascal's traingle/out/production/lecture number 21 2D arrays matrix transpose &amp; rotation pascal's traingle/qn3PrintPascalTraningle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 21 2D arrays matrix transpose &amp; rotation pascal's traingle/out/production/lecture number 21 2D arrays matrix transpose &amp; rotation pascal's traingle/transposeMatrixNotUsingExtraArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 21 2D arrays matrix transpose &amp; rotation pascal's traingle/out/production/lecture number 21 2D arrays matrix transpose &amp; rotation pascal's traingle/transposeMatrixNotUsingExtraArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 21 2D arrays matrix transpose &amp; rotation pascal's traingle/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 21 2D arrays matrix transpose &amp; rotation pascal's traingle/practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 27 reursion concept and problem/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 27 reursion concept and problem/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 27 reursion concept and problem/out/production/lecture number 27 reursion concept and problem/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 27 reursion concept and problem/out/production/lecture number 27 reursion concept and problem/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 27 reursion concept and problem/out/production/lecture number 27 reursion concept and problem/practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 27 reursion concept and problem/out/production/lecture number 27 reursion concept and problem/practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 27 reursion concept and problem/out/production/lecture number 27 reursion concept and problem/qn1usingRecursionprintNaturalNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 27 reursion concept and problem/out/production/lecture number 27 reursion concept and problem/qn1usingRecursionprintNaturalNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 27 reursion concept and problem/out/production/lecture number 27 reursion concept and problem/qn2usingRecursionPrintReverseNaturalNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 27 reursion concept and problem/out/production/lecture number 27 reursion concept and problem/qn2usingRecursionPrintReverseNaturalNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 27 reursion concept and problem/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 27 reursion concept and problem/practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 28 recursion-1 factorial &amp; nth fionacci number/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 28 recursion-1 factorial &amp; nth fionacci number/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 28 recursion-1 factorial &amp; nth fionacci number/out/production/lecture number 28 recursion-1 factorial &amp; nth fionacci number/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 28 recursion-1 factorial &amp; nth fionacci number/out/production/lecture number 28 recursion-1 factorial &amp; nth fionacci number/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 28 recursion-1 factorial &amp; nth fionacci number/out/production/lecture number 28 recursion-1 factorial &amp; nth fionacci number/factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 28 recursion-1 factorial &amp; nth fionacci number/out/production/lecture number 28 recursion-1 factorial &amp; nth fionacci number/factorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 28 recursion-1 factorial &amp; nth fionacci number/out/production/lecture number 28 recursion-1 factorial &amp; nth fionacci number/nthFibonacciNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 28 recursion-1 factorial &amp; nth fionacci number/out/production/lecture number 28 recursion-1 factorial &amp; nth fionacci number/nthFibonacciNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 28 recursion-1 factorial &amp; nth fionacci number/out/production/lecture number 28 recursion-1 factorial &amp; nth fionacci number/oneToNFibbonacciNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 28 recursion-1 factorial &amp; nth fionacci number/out/production/lecture number 28 recursion-1 factorial &amp; nth fionacci number/oneToNFibbonacciNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 28 recursion-1 factorial &amp; nth fionacci number/out/production/lecture number 28 recursion-1 factorial &amp; nth fionacci number/practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 28 recursion-1 factorial &amp; nth fionacci number/out/production/lecture number 28 recursion-1 factorial &amp; nth fionacci number/practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 28 recursion-1 factorial &amp; nth fionacci number/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 28 recursion-1 factorial &amp; nth fionacci number/practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 29 recursion-2 sum of digit/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 29 recursion-2 sum of digit/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 29 recursion-2 sum of digit/out/production/lecture number 29 recursion-2 sum of digit/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 29 recursion-2 sum of digit/out/production/lecture number 29 recursion-2 sum of digit/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 29 recursion-2 sum of digit/out/production/lecture number 29 recursion-2 sum of digit/countOfDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 29 recursion-2 sum of digit/out/production/lecture number 29 recursion-2 sum of digit/countOfDigit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 29 recursion-2 sum of digit/out/production/lecture number 29 recursion-2 sum of digit/practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 29 recursion-2 sum of digit/out/production/lecture number 29 recursion-2 sum of digit/practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 29 recursion-2 sum of digit/out/production/lecture number 29 recursion-2 sum of digit/qn1findSumOfDigit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 29 recursion-2 sum of digit/out/production/lecture number 29 recursion-2 sum of digit/qn1findSumOfDigit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 29 recursion-2 sum of digit/out/production/lecture number 29 recursion-2 sum of digit/qn2findPsquareQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 29 recursion-2 sum of digit/out/production/lecture number 29 recursion-2 sum of digit/qn2findPsquareQ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 29 recursion-2 sum of digit/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 29 recursion-2 sum of digit/practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 30 recursion-3 k multiples alternate sum/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 30 recursion-3 k multiples alternate sum/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 30 recursion-3 k multiples alternate sum/out/production/lecture number 30 recursion-3 k multiples alternate sum/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 30 recursion-3 k multiples alternate sum/out/production/lecture number 30 recursion-3 k multiples alternate sum/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 30 recursion-3 k multiples alternate sum/out/production/lecture number 30 recursion-3 k multiples alternate sum/finding1toNofSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 30 recursion-3 k multiples alternate sum/out/production/lecture number 30 recursion-3 k multiples alternate sum/finding1toNofSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 30 recursion-3 k multiples alternate sum/out/production/lecture number 30 recursion-3 k multiples alternate sum/practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 30 recursion-3 k multiples alternate sum/out/production/lecture number 30 recursion-3 k multiples alternate sum/practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 30 recursion-3 k multiples alternate sum/out/production/lecture number 30 recursion-3 k multiples alternate sum/qn1printKMultiples.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 30 recursion-3 k multiples alternate sum/out/production/lecture number 30 recursion-3 k multiples alternate sum/qn1printKMultiples.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 30 recursion-3 k multiples alternate sum/out/production/lecture number 30 recursion-3 k multiples alternate sum/qn2sumAlternativeNumberWithAlternativeSign.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 30 recursion-3 k multiples alternate sum/out/production/lecture number 30 recursion-3 k multiples alternate sum/qn2sumAlternativeNumberWithAlternativeSign.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 30 recursion-3 k multiples alternate sum/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 30 recursion-3 k multiples alternate sum/practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 58 queue ineterview question/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lecture number 58 queue ineterview question/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 59 java collection framework/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 59 java collection framework/.idea/lecture number 59 java collection framework.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 59 java collection framework/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 59 java collection framework/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 59 java collection framework/arraylistEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 59 java collection framework/dequeExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 59 java collection framework/linkedListEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 59 java collection framework/out/production/lecture number 59 java collection framework/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 59 java collection framework/out/production/lecture number 59 java collection framework/.idea/lecture number 59 java collection framework.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 59 java collection framework/out/production/lecture number 59 java collection framework/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 59 java collection framework/out/production/lecture number 59 java collection framework/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 59 java collection framework/out/production/lecture number 59 java collection framework/arraylistEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 59 java collection framework/out/production/lecture number 59 java collection framework/dequeExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 59 java collection framework/out/production/lecture number 59 java collection framework/linkedListEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 59 java collection framework/out/production/lecture number 59 java collection framework/priorityQueueExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 59 java collection framework/out/production/lecture number 59 java collection framework/queueExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 59 java collection framework/out/production/lecture number 59 java collection framework/setInterface/hashSetExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 59 java collection framework/out/production/lecture number 59 java collection framework/setInterface/linkedHashSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 59 java collection framework/out/production/lecture number 59 java collection framework/stackExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 59 java collection framework/priorityQueueExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 59 java collection framework/queueExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 59 java collection framework/setInterface/hashSetExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 59 java collection framework/setInterface/linkedHashSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lecture number 59 java collection framework/stackExample.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2wcWUPGQewlK8XfPQVN5cujg4e0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.practice.executor": "Debug",
+    "Application.qn1ArrayList.executor": "Run",
+    "Application.qn2LinkedList.executor": "Run",
+    "Application.qn3Stack.executor": "Run",
+    "Application.qn4QueueInterface.executor": "Run",
+    "Application.qn5PriorityQueue.executor": "Run",
+    "Application.qn6DqueueSubInterface.executor": "Run",
+    "Application.qn7HashSet.executor": "Run",
+    "Application.qn8LinkedHashSet.executor": "Run",
+    "Application.qn8TreeSet.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/java/java/lecture number 59 collection framework",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.435" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.435" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52d03b7b-ea66-4b4b-b3da-22f207c8d6b8" name="Changes" comment="" />
+      <created>1746341359180</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746341359180</updated>
+      <workItem from="1746341361877" duration="2246000" />
+      <workItem from="1746355562155" duration="5234000" />
+      <workItem from="1746361933882" duration="31000" />
+      <workItem from="1746451259889" duration="1231000" />
+      <workItem from="1746532871467" duration="769000" />
+      <workItem from="1746536464415" duration="322000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 class practice{
-    public static void naturalNum(int num){
+    static void naturalNum(int num){
         if(num==0)
             return;
         System.out.print(num+" ");
@@ -9,8 +9,9 @@ class practice{
     }
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter the value of num: ");
-        int num=sc.nextInt();
+        int num;
+        System.out.print("Enter the num: ");
+        num=sc.nextInt();
         naturalNum(num);
     }
 }

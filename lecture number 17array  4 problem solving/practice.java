@@ -1,20 +1,27 @@
 import java.util.Scanner;
 public class practice{
-    static int[] reverseKSteps(int[] arr, int k){
+    static int[] sort0and1(int[] arr){
         int n=arr.length;
+        int count=0;
         int[] ans=new int[n];
         int j=0;
-        for(int i=n-k;i<n;i++){
-            ans[j++]=arr[i];
+        for(int i=0;i<n;i++){
+            if(arr[i]==0){
+                count++;
+            }
         }
-        for(int i=0;i<n-k;i++){
-            ans[j++]=arr[i];
+        for(int i=0;i<count;i++){
+           ans[j]=0;
+           j++;
+        }
+        for(int i=count;i<n;i++){
+            ans[j]=1;
+            j++;
         }
         return ans;
     }
     static void printArray(int[] arr){
-        int n=arr.length;
-        for(int i=0;i<n;i++){
+        for(int i=0; i<arr.length;i++){
             System.out.print(arr[i]+" ");
         }
     }
@@ -24,14 +31,11 @@ public class practice{
         System.out.println("Enter the value of num: ");
         num=sc.nextInt();
         int[] arr=new int[num];
-        System.out.println("Enter the array element: ");
+        System.out.println("Enter the array element only 0&1: ");
         for(int i=0;i<arr.length;i++){
             arr[i]=sc.nextInt();
         }
-        System.out.println("Enter the steps of rotation: ");
-        int k=sc.nextInt();
-
-        int[] ans=reverseKSteps(arr, k);
+        int[] ans=sort0and1(arr);
         printArray(ans);
     }
 }
